@@ -3,7 +3,7 @@
 
 Name:      eclipse-eclemma
 Version:   1.5.2
-Release:   1
+Release:   3
 Summary:   Java code coverage tool plugin for Eclipse
 Group:     Development/Java
 License:   EPL and ASL 2.0
