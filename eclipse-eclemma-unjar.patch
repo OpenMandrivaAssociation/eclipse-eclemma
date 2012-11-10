@@ -1,0 +1,12 @@
+--- com.mountainminds.eclemma.feature/feature.xml	2008-04-25 14:19:27.000000000 -0400
++++ com.mountainminds.eclemma.feature/feature.xml	2008-04-25 14:19:52.000000000 -0400
+@@ -111,8 +111,7 @@
+          id="com.mountainminds.eclemma.core"
+          download-size="0"
+          install-size="0"
+-         version="0.0.0"
+-         unpack="false"/>
++         version="0.0.0"/>
+ 
+    <plugin
+          id="com.mountainminds.eclemma.doc"
