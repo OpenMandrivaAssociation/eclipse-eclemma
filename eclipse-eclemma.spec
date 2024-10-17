@@ -7,7 +7,7 @@ Release:   3
 Summary:   Java code coverage tool plugin for Eclipse
 Group:     Development/Java
 License:   EPL and ASL 2.0
-URL:       http://www.eclemma.org
+URL:       https://www.eclemma.org
 
 # Source tarball and script used to generate it
 # $ sh ./get-eclemma.sh
